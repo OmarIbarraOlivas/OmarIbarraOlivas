@@ -61,7 +61,4 @@ I am a professional graduated from the Technological Institute of Hermosillo wit
 <a target="_blank" href="mailto:ibarraolivas.oa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <br>
 </p>
-------
-Credits: [Birunthaban Sarventhiran](https://github.com/Birunthaban)
 
-Last Edited on: 28/01/2023
