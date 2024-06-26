@@ -2,7 +2,7 @@
 
 ### Hi there 👋 I'm Omar Ibarra,
 
-I'm a second year software engineering undergraduate at University of Kelaniya and I'm also following a applied statistics diploma at IASSL.
+I am a professional graduated from the Technological Institute of Hermosillo with a degree in Computer Systems Engineering, and I have experience in full stack application development.
 
 - ⚡ **Fun fact:** I am a resilient person who, when faced with something I don't know how to do, will do my best to overcome challenges and fulfill my promises.
 - 🔭 I’m currently studying:
