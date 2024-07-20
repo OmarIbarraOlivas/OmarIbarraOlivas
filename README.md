@@ -44,6 +44,7 @@ I am a professional graduated from the Technological Institute of Hermosillo wit
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Azure_DEVOPS-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white">
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white">
 
 </span>
 
